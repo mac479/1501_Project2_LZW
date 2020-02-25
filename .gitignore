@@ -1,11 +1,19 @@
-# Compiled class file
+*all.tar*
+*assig2.doc*
+*bmps.tar*
+*code2.txt*
+*code.txt*
+*edit.exe*
+*frosty.jpg*
+*gone_fishing.bmp*
+*large.txt*
+*Lego-big.gif*
+*medium.txt*
+*texts.tar*
+*wacky.bmp*
+*winnt256.bmp*
+
 *.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -13,11 +21,13 @@
 # Package Files #
 *.jar
 *.war
-*.nar
 *.ear
-*.zip
-*.tar.gz
-*.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+10504
+*.lzw
+8088
+text.txt
+something.txt
+*.txt
